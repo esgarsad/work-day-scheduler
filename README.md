@@ -4,8 +4,8 @@ This is a work Day Scheduler based on Javascript, thml and CSS. You will be have
 
 ## link to the app
 
-You can see my password generator [here](https://esgarsad.github.io/work-day-scheduler/).
+You can see my work-day-scheduler [here](https://esgarsad.github.io/work-day-scheduler/).
 
 
 
-![password](https://github.com/esgarsad/work-day-scheduler/blob/main/pictures/work-day.JPG?raw=true)
+![password](https://github.com/esgarsad/work-day-scheduler/blob/main/assets/images/work-day.png?raw=true)
